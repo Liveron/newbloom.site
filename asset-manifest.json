@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c23f4584.css",
+    "main.js": "/static/js/main.775aa107.js",
+    "static/media/card.png": "/static/media/card.6f9f0dd412bd8d3a1514.png",
+    "static/media/phone.png": "/static/media/phone.57be20df0f65960c53c8.png",
+    "static/media/bg-item2.png": "/static/media/bg-item2.090fe23fe49ff04ce6bb.png",
+    "static/media/bg-item1.png": "/static/media/bg-item1.f7ae9139c15bd21f1ba9.png",
+    "static/media/FASIE_RU_rgb_-_основной.svg.png": "/static/media/FASIE_RU_rgb_-_основной.svg.9cbea8f52203ed51bef6.png",
+    "static/media/gothampro_regular.ttf": "/static/media/gothampro_regular.4f71921a0823129cd8ba.ttf",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.85d008fc0077ce6d54c7a2dc1d01d4c4.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.be876e9073aadde659fd87f62541a55c.svg",
+    "index.html": "/index.html",
+    "main.c23f4584.css.map": "/static/css/main.c23f4584.css.map",
+    "main.775aa107.js.map": "/static/js/main.775aa107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23f4584.css",
+    "static/js/main.775aa107.js"
+  ]
+}
