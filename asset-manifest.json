@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newbloom.site/static/css/main.f499c692.css",
-    "main.js": "/newbloom.site/static/js/main.f762bd13.js",
+    "main.css": "/newbloom.site/static/css/main.3c37a279.css",
+    "main.js": "/newbloom.site/static/js/main.734db68c.js",
     "static/media/card.png": "/newbloom.site/static/media/card.6f9f0dd412bd8d3a1514.png",
     "static/media/phone.png": "/newbloom.site/static/media/phone.57be20df0f65960c53c8.png",
     "static/media/bg-item2.png": "/newbloom.site/static/media/bg-item2.090fe23fe49ff04ce6bb.png",
@@ -11,11 +11,11 @@
     "static/media/arrow-left.svg": "/newbloom.site/static/media/arrow-left.85d008fc0077ce6d54c7a2dc1d01d4c4.svg",
     "static/media/arrow-right.svg": "/newbloom.site/static/media/arrow-right.be876e9073aadde659fd87f62541a55c.svg",
     "index.html": "/newbloom.site/index.html",
-    "main.f499c692.css.map": "/newbloom.site/static/css/main.f499c692.css.map",
-    "main.f762bd13.js.map": "/newbloom.site/static/js/main.f762bd13.js.map"
+    "main.3c37a279.css.map": "/newbloom.site/static/css/main.3c37a279.css.map",
+    "main.734db68c.js.map": "/newbloom.site/static/js/main.734db68c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f499c692.css",
-    "static/js/main.f762bd13.js"
+    "static/css/main.3c37a279.css",
+    "static/js/main.734db68c.js"
   ]
 }
